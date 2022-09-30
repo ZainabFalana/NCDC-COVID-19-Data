@@ -1,4 +1,4 @@
-# NSDC-COVID-19-Data
+# NCDC-COVID-19-Data
 
 A visual representation of the NCDC COVID-19 Situation report as at 12th September, 2022.
 
